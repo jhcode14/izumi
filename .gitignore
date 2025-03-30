@@ -176,4 +176,4 @@ cython_debug/
 
 # Test (Copyrighted) manga
 test_manga/
-.notes.md
+notes.md
