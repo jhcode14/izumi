@@ -1,0 +1,12 @@
+transformers==4.30.2
+pillow
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+einops
+shapely
+timm
+scipy
